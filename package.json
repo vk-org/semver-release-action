@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/zwaldowski/semver-release-action#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.6.0",
     "@actions/exec": "^1.0.4",
     "@actions/github": "^5.0.0",
     "semver": "^6.3.0"
